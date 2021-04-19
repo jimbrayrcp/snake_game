@@ -3,7 +3,7 @@
 * * *
 
 ### Reimagined in Python v3.9 using Turtle
-![snake game](snake_game/snake_test.gif "Snake Game")<br>
+![snake game](snake_game.gif "Snake Game")<br>
 **WARNING: Can Be Addictive!**
 
 In this single player game, you control the head of the snake by going in any direction except for backwards. As you move your snake forward, your goal is to consume the food which increases your score. However, consuming that food also increases the length of your snake. The game is over when you direct your snake to run into the wall (window border) or your own tail.
